@@ -1,0 +1,11 @@
+.row {
+  display: flex;
+}
+
+.column {
+  flex-basis: 25%; /* Ajusta el ancho de las columnas según tus necesidades */
+  padding: 10px;
+  box-sizing: border-box;
+  /* Otros estilos de diseño para las columnas */
+  background-color: teal;
+}
